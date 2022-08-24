@@ -4,5 +4,5 @@ author: "Quant Team"
 description: "Big mod with new resources, planets, mechanics, turrets and units, have fun"
 main: "braindustry.BraindustryMod"
 version: 2.0.4.4 public beta
-minGameVersion: 129.2
+minGameVersion: 137
 dependencies: ["gas-library-java"]
